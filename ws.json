@@ -1,0 +1,2189 @@
+{
+    "caption": "Yonex Japan Badminton Open 2015 SF",
+    "event": "WS",
+    "right": { 
+        "name": "Wang Shixian",
+        "country": "CHN",
+        "sex": "W",
+        "handed": "right"
+    },
+    "left": { 
+        "name": "Akane Yamaguchi",
+        "country": "JPN",
+        "sex": "W",
+        "handed": "right"
+    },
+    "summary": {
+        "wonby": "Akane Yamaguchi",
+        "duration": 83,
+        "scores":[
+            {
+                "game": 1,
+                "right": 12,
+                "left": 21 
+            },
+            {
+                "game": 2,
+                "right": 21,
+                "left": 15 
+            },
+            {
+                "game": 3,
+                "right": 24,
+                "left": 26
+            }
+        ]
+    },
+    "details": [
+        {
+            "game": 1,
+            "rallies": [
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },                     
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },               
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },         
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },         
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },         
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },            
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        } 
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": true,
+                    "cause": "net",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },                    
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },    
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "middle-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-center",
+                            "to": "middle-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "middle-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "middle-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-right",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "net",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "middle-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": true,
+                    "cause": "net",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": true,
+                    "cause": "sideout",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": true,
+                    "cause": "net",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "middle-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "net-in",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": true,
+                    "cause": "sideout",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "middle-right",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-right",
+                            "to": "middle-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "front-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": true,
+                    "cause": "sideout",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "sideout",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-right",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "watch",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-right",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-center",
+                            "to": "front-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "back-left",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-right",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "net",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "sideout",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-right",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "middle-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "middle-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-right",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        }
+
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "front-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "net-in",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "front-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "not-reach",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-center",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "front-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Wang Shixian",
+                    "unforced": false,
+                    "cause": "net",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "middle-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-center",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "middle-center",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                },
+                {
+                    "wonby": "Akane Yamaguchi",
+                    "unforced": false,
+                    "cause": "ace",
+                    "strokes": [
+                        { 
+                            "serve": true,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "front-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-right",
+                            "to": "back-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-center",
+                            "to": "middle-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-left",
+                            "to": "front-center",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-right",
+                            "balance": "defensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "back-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "back-center",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "middle-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "middle-right",
+                            "to": "middle-left",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "middle-left",
+                            "to": "front-right",
+                            "balance": "even",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "front-right",
+                            "to": "front-center",
+                            "balance": "even",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "front-center",
+                            "to": "back-left",
+                            "balance": "offensive",
+                            "hand": "backhand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Wang Shixian",
+                            "from": "back-left",
+                            "to": "front-left",
+                            "balance": "defensive",
+                            "hand": "forehand"
+                        },
+                        { 
+                            "serve": false,
+                            "stroker": "Akane Yamaguchi",
+                            "from": "back-right",
+                            "to": "front-right",
+                            "balance": "offensive",
+                            "hand": "forehand"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
