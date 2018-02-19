@@ -1,0 +1,22 @@
+{
+  "name": "badminton-matches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexia2/badminton-matches.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexia2/badminton-matches/issues"
+  },
+  "homepage": "https://github.com/dexia2/badminton-matches#readme",
+  "dependencies": {
+    "csv": "^2.0.0"
+  }
+}
