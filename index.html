@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>InputStats</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container">
+        <div class="card mt-3">
+            <div class="card-header">
+                Basics
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col form-group">
+                        <label for="playerA">PlayerA</label>
+                        <input type="text" class="form-control" id="playerA">
+                    </div>
+                    <div class="col form-group">
+                        <label for="playerB">PlayerB</label>
+                        <input type="text" class="form-control" id="playerB">
+                    </div>
+                </div>
+                <button class="btn btn-primary mr-2" id="btnStart">Start</button>
+                <button type="button mr-2" class="btn btn-secondary" id="btnEnd">End</button>
+            </div>
+        </div>
+        <div class="card mt-3">
+            <div class="card-header">
+                Details
+            </div>
+            <div class="card-body">
+                <div class="card card-header">
+                    <span class="ml-2">
+                        <label class="mr-2">スコア</label>
+                        <span class="h5" id="score">0-0</span>
+                    </span>
+                </div>
+                <div class="row mt-2">
+                    <div class="col">
+                        <div class="card card-body">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="serve">
+                                <label class="form-check-label" for="serve">
+                                    Serve?
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <label for="slcStroker">Stroker</label>
+                                <select class="form-control" id="slcStroker"></select>
+                            </div>
+                            <div class="form-group">
+                                <label for="slcDirectionFrom">From</label>
+                                <select class="form-control" id="slcDirectionFrom"></select>
+                            </div>
+                            <div class="form-group">
+                                <label for="slcDirectionTo">To</label>
+                                <select class="form-control" id="slcDirectionTo"></select>
+                            </div>
+                            <div class="form-group">
+                                <label for="slcBalance">Balance</label>
+                                <select class="form-control" id="slcBalance"></select>
+                            </div>
+                            <div class="form-group">
+                                <label for="slcHand">Hand</label>
+                                <select class="form-control" id="slcHand"></select>
+                            </div>
+                            <button class="btn btn-primary mt-2" id="btnNextStroke">Next</button>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-body">
+                            <div class="form-group">
+                                <label for="slcWonby">WonBy</label>
+                                <select class="form-control" id="slcWonby"></select>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="unforced">
+                                <label class="form-check-label" for="unforced">
+                                    Unforced?
+                                </label>
+                            </div>
+                            <div class="form-group">
+                                <label for="slcCause">Cause</label>
+                                <select class="form-control" id="slcCause"></select>
+                            </div>
+                            <button class="btn btn-primary mt-2" id="btnNextRally">Next</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script>
+
+        // 初期設定
+        let players = [];
+        let rallies = [];
+        let currentRally = {};
+        const defaultServeTo = 'back-right';
+        const defaultServeHand = 'backhand';
+
+        // 選択リスト元データ
+        const directions = [
+            'front-right', 'front-center', 'front-left',
+            'middle-right', 'middle-center', 'middle-left',
+            'back-right', 'back-center', 'back-left'
+        ];
+        const balances = ['offensive', 'even', 'defensive'];
+        const hands = ['backhand', 'forehand'];
+        const causes = [
+            'ace', 'net', 'sideout', 'watch',
+            'fault', 'net-in', 'not-reach'
+        ];
+
+        // 選択リスト初期化
+        const refreshSelect = (id, arr) => {
+            const $select = $(`#${id}`);
+            $select.children().remove();
+            arr.forEach(v =>
+                $select.append(`<option value="${v}">${v}</option>`).val(arr[0]));
+        };
+        refreshSelect('slcDirectionFrom', directions);
+        refreshSelect('slcDirectionTo', directions);
+        refreshSelect('slcBalance', balances);
+        refreshSelect('slcHand', hands);
+        refreshSelect('slcCause', causes);
+
+        // ストロークを画面に反映
+        const reflectStroke = stroke => {
+            $('#serve').prop('checked', stroke.serve);
+            $('#slcStroker').val(stroke.stroker);
+            $('#slcDirectionFrom').val(stroke.from);
+            $('#slcDirectionTo').val(stroke.to);
+            $('#slcBalance').val(stroke.balance);
+            $('#slcHand').val(stroke.hand)
+        };
+
+        // ラリーを画面に反映
+        const reflectRally = rally => {
+            $('#slcWonby').val(rally.wonby);
+            $('#unforced').prop('checked', rally.unforced);
+            $('#slcCause').val(rally.cause);
+        };
+
+        $('#btnStart').click(function () {
+
+            // 選手の確定
+            players = [$('#playerA').val(), $('#playerB').val()];
+            refreshSelect('slcStroker', players);
+            refreshSelect('slcWonby', players);
+
+            // ラリーの初期化
+            rallies = [];
+            currentRally = {
+                wonby: players[0],
+                unforced: false,
+                cause: causes[0],
+                strokes: []
+            };
+            rallies.push(currentRally);
+            reflectRally(currentRally);
+
+            // ストロークの初期化
+            reflectStroke({
+                serve: true,
+                stroker: players[0],
+                from: 'front-right',
+                to: defaultServeTo,
+                balance: 'even',
+                hand: defaultServeHand
+            });
+
+        });
+
+        $('#btnEnd').click(function () {
+            // 終了した場合、ログに吐く
+            console.log(rallies);
+        });
+
+        // 画面からストロークを取得
+        const getStroke = () =>
+            ({
+                serve: $('#serve').prop('checked'),
+                stroker: $('#slcStroker').val(),
+                from: $('#slcDirectionFrom').val(),
+                to: $('#slcDirectionTo').val(),
+                balance: $('#slcBalance').val(),
+                hand: $('#slcHand').val()
+            });
+        $('#btnNextStroke').click(function () {
+
+            // ストロークをデータに反映
+            const currentStroke = getStroke();
+            currentRally.strokes.push(currentStroke);
+
+            // ストロークフォームの初期化
+            reflectStroke({
+                serve: false,
+                stroker: players.find(p => p !== currentStroke.stroker),
+                from: currentStroke.to,
+                to: directions[0],
+                balance: currentStroke.balance === 'even' ? 'even'
+                    : currentStroke.balance !== 'offensive' ? 'offensive' : 'defensive',
+                hand: currentStroke.to.includes('left') ? 'backhand' : 'forehand'
+            });
+            $('#slcDirectionTo').focus();
+        });
+
+        // 画面からラリー情報の取得
+        const getRally = () =>
+            ({
+                wonby: $('#slcWonby').val(),
+                unforced: $('#unforced').prop('checked'),
+                cause: $('#slcCause').val()
+            });
+
+        // スコアの取得
+        const getScores = () => {
+            const scoreA = rallies.filter(r => r.wonby === players[0]).length;
+            const scoreB = rallies.filter(r => r.wonby === players[1]).length;
+            return `${players[0]} ${scoreA}-${scoreB} ${players[1]}`;
+        };
+
+        $('#btnNextRally').click(function () {
+
+            // ラリー情報の更新
+            Object.assign(currentRally, getRally());
+
+            // スコア情報の表示
+            $('#score').text(getScores());
+            currentRally = {
+                wonby: currentRally.wonby,
+                unforced: false,
+                cause: causes[0],
+                strokes: []
+            }
+            rallies.push(currentRally);
+
+            // ラリーフォームの更新
+            reflectRally(currentRally);
+
+            // ストロークフォームの更新
+            reflectStroke({
+                serve: true,
+                stroker: currentRally.wonby,
+                from: rallies.length % 2 === 0 ? 'front-left' : 'front-right',
+                to: defaultServeTo,
+                balance: 'even',
+                hand: defaultServeHand
+            });
+            $('#slcDirectionTo').focus();
+        });
+
+    </script>
+</body>
+
+</html>
