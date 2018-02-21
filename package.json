@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dexia2/badminton-matches#readme",
   "dependencies": {
-    "csv": "^2.0.0"
+    "csv": "^2.0.0",
+    "lodash": "^4.17.5"
   }
 }
