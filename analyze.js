@@ -77,8 +77,11 @@ const strokeAvailability = (rallies, player) => {
             }
         );}
                    );
-    return strokesMap;
+    return _.sortBy(strokesMap, [s => s.stroke.from,
+                                 s => s.stroke.to]) ;
 };
+
+console.log(strokeAvailability(rallies, 'Wang Shixian'));
 
 // ストロークの吐き出し
 const flatten = arr => arr.reduce((a, e) => a.concat(...e), []);
