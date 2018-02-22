@@ -47,6 +47,39 @@ const balanceScore = (rallies, player, balance) => {
 
 };
 
+// ストロークの有効性を考える
+const strokeAvailability = (rallies, player) => {
+    const strokesMap = [];
+    rallies.forEach(r => {
+
+        let lastPlayerStroke = null;
+        r.strokes.forEach(
+            s => {
+                if(s.stroker === player && s.serve) { return; }
+                if (s.stroker === player) {
+                    lastPlayerStroke = s;
+                } else {
+                    if(!lastPlayerStroke) { return };
+                    const key = { from: lastPlayerStroke.from, to: lastPlayerStroke.to };
+                    const val = strokesMap.find(sm => sm.stroke.to === key.to && sm.stroke.from === key.from);
+                    if(val){
+                        if(val[s.balance]){
+                            val[s.balance]++;
+                        } else {
+                            val[s.balance] = 1;
+                        }
+                    } else {
+                        const newVal = {stroke: key};
+                        newVal[s.balance] = 1;
+                        strokesMap.push(newVal);
+                    }
+                }
+            }
+        );}
+                   );
+    return strokesMap;
+};
+
 // ストロークの吐き出し
 const flatten = arr => arr.reduce((a, e) => a.concat(...e), []);
 const toStrokesStats = strokes => {
