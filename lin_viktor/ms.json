@@ -1,0 +1,4747 @@
+[
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "back-out",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "watch",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "back-out",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "back-out",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-center",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-center",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-center",
+                "to": "back-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-center",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-center",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "back-out",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "watch",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "net-in",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "middle-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "net",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Viktor Axelsen",
+        "unforced": true,
+        "cause": "sideout",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-center",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": true,
+        "cause": "back-out",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    },
+    {
+        "wonby": "Lin Dan",
+        "unforced": false,
+        "cause": "ace",
+        "strokes": [
+            {
+                "serve": true,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-center",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-center",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "middle-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-left",
+                "to": "front-right",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-right",
+                "to": "back-right",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-center",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "back-left",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "back-right",
+                "to": "front-right",
+                "balance": "even",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-right",
+                "to": "front-left",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "back-right",
+                "balance": "even",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "back-right",
+                "to": "middle-right",
+                "balance": "offensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-right",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "front-left",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "front-left",
+                "to": "front-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "front-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            },
+            {
+                "serve": false,
+                "stroker": "Viktor Axelsen",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "defensive",
+                "hand": "backhand"
+            },
+            {
+                "serve": false,
+                "stroker": "Lin Dan",
+                "from": "middle-center",
+                "to": "middle-center",
+                "balance": "offensive",
+                "hand": "forehand"
+            }
+        ]
+    }
+]
